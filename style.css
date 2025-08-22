@@ -13,3 +13,14 @@
     font-size: 24px;
     color: #F9FAF8;
 }
+
+.left-links {
+    display: flex;
+    gap: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: #E5E7Eb;
+    font-size: 18px;
+}
